@@ -22,7 +22,7 @@ import {flatten, snakeToCamel} from 'stack-overflow-copy-paste'
 flatten([[1, 2,], 3]) // [1, 2, 3]
 snakeToCamel('snake-case-string') // 'snakeCaseString'
 ```
-
+Testing
 ## LICENSE
 
 MIT
